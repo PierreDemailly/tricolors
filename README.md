@@ -14,6 +14,6 @@ Only supports red, green and blue colors.
 | `tricolors.red(text)` | Make the text red |
 | `tricolors.green(text)` | Make the text red |
 | `tricolors.blue(text)` | Make the text red |
-| `tricolors.logRed(text)` | console.log text in red |
-| `tricolors.logGreen(text)` | console.log text in green |
-| `tricolors.logBlue(text)` | console.log text in blue |
+| `tricolors.redLog(text)` | console.log text in red |
+| `tricolors.greenLog(text)` | console.log text in green |
+| `tricolors.blueLog(text)` | console.log text in blue |
