@@ -17,3 +17,5 @@ Only supports red, green and blue colors.
 | `tricolors.redLog(text)` | console.log text in red |
 | `tricolors.greenLog(text)` | console.log text in green |
 | `tricolors.blueLog(text)` | console.log text in blue |
+
+<!> Take care with blue color, it is impossible to read on windows powershell
