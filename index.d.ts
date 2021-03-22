@@ -1,3 +1,5 @@
+import tricolors from ".";
+
 declare interface tricolors {
   red(msg: string): string;
   green(msg: string): string;
@@ -6,3 +8,4 @@ declare interface tricolors {
   greenLog(msg: string): void;
   blueLog(msg: string): void;
 }
+export module tricolors;
