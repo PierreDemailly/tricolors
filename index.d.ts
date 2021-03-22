@@ -1,4 +1,3 @@
-// <reference types="node" />
 declare module "tricolors" {
   function red(msg: string): string;
   function green(msg: string): string;
