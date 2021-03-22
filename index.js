@@ -9,13 +9,13 @@ const tricolors = {
     return "\033[0;34m" + msg + "\033[0m";
   },
   redLog(msg) {
-    console.log(red(msg));
+    console.log(this.red(msg));
   },
   greenLog(msg) {
-    console.log(green(msg));
+    console.log(this.green(msg));
   },
   blueLog(msg) {
-    console.log(blue(msg));
+    console.log(this.blue(msg));
   }
 };
 
